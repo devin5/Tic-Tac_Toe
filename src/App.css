@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  
+}
+
+#box {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(136, 136, 202);
+  border: 1px solid black;
+}
